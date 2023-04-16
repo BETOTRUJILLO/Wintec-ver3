@@ -1,0 +1,45 @@
+    footer {
+    background-color: #1a1a2e;
+    color: #fff;
+    padding: 16px 0;
+    .contenedor {
+        max-width: 1980px;
+        margin: 0 auto;
+        padding: 0 16px;
+    }
+    .filas {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: baseline;
+    .columnas {
+        width: 100%;
+        max-width: 400px;
+h3 {
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    }
+p {
+    margin-bottom: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    }
+}
+}
+    .fab {
+    margin-right: 16px;
+    }
+    .socialIcons {
+        a {
+        display: inline-block;
+        margin-right: 16px;
+        color: #fff;
+        font-size: 16px;
+        &:hover {
+            color: #0077c2;
+        }
+        }
+    }
+}
